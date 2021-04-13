@@ -1,0 +1,11 @@
+{
+  "accessToken": "pk.eyJ1IjoiemhhbmdqaWFtaW41MTQiLCJhIjoiY2tlaWQ3cmZ0MTN4ejJ5cnMwOHlkeXRhOCJ9.t_aLcMuU99PsOlHffDaPRw",
+  "name":"地图",
+  "mapOp":[{
+    "container": "map",
+    "style": "mapbox://styles/zhangjiamin514/ckn5pao220o8017mlbufsivr4",
+    "center": [104.488,38.719],
+    "zoom": 3.5,
+    "minzoom": 2
+  }]
+}
